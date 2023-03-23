@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679291719 source:/home/shivam/Documents/cpp_projects/RootsOfQuadraticEquation/main.cpp
+	<iostream>
+	<cmath>
+
