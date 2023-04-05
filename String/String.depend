@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680608519 source:/home/shivam/Documents/cpp_projects/String/main.cpp
+	<iostream>
+	<cstring>
+	<bits/stdc++.h>
+
